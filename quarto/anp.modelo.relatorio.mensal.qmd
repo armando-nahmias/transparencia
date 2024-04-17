@@ -1,0 +1,28 @@
+---
+title: "Relatório ANP"
+format: 
+  html: 
+    embed-resources: true
+  typst: 
+    toc: false
+---
+
+# Relatório Mensal
+
+```{r echo=FALSE}
+
+```
+
+Abaixo, segue tabela contendo a última média mensal de preços relativos ao Levantamento de Preços de Combustíveis.
+
+## Município: 
+
+## Estado: 
+
+## Período: 
+
+```{r echo=FALSE}
+
+
+
+```
